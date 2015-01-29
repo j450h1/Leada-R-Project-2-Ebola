@@ -18,5 +18,7 @@ So you got the data and built some visualizations. Now interpret it! Note a few 
 
 ANSWER:
 
-![alt tag](https://raw.github.com/username/projectname/branch/path/to/img.png)
+![Newly Reported Ebola Deaths](https://raw.githubusercontent.com/j450h1/Leada-R-Project-2-Ebola/master/Newly%20Reported%20Ebola%20Daily%20Deaths%20-%20ggplot2%20and%20plotly.png)
+
+![Newly Reported Ebola Deaths](https://raw.githubusercontent.com/j450h1/Leada-R-Project-2-Ebola/master/Newly%20Reported%20Ebola%20Daily%20Deaths%20-%20ggplot2%20and%20plotly.png)
  
