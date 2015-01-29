@@ -16,9 +16,11 @@ There are some sample visualizations here: http://www.bbc.com/news/world-africa-
 Step 3. Conclusion
 So you got the data and built some visualizations. Now interpret it! Note a few things about the graph. Can you conclude anything? Is the worst over? Maybe it's yet to come? Or not enough data? Let us know your thoughts.
 
-ANSWER:
+**ANSWER:
 
 ![Newly Reported Ebola Deaths](https://raw.githubusercontent.com/j450h1/Leada-R-Project-2-Ebola/master/Newly%20Reported%20Ebola%20Daily%20Deaths%20-%20ggplot2%20and%20plotly.png)
 
-![Newly Reported Ebola Deaths](https://raw.githubusercontent.com/j450h1/Leada-R-Project-2-Ebola/master/Newly%20Reported%20Ebola%20Daily%20Deaths%20-%20ggplot2%20and%20plotly.png)
+The amount of 
+
+![Newly Reported Ebola Deaths](https://raw.githubusercontent.com/j450h1/Leada-R-Project-2-Ebola/master/Percentage%20of%20Confirmed%20Ebola%20Cases%20-%20Tableau.png)
  
