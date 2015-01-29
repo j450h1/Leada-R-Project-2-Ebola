@@ -20,7 +20,7 @@ ANSWER:
 
 ![Newly Reported Ebola Deaths](https://raw.githubusercontent.com/j450h1/Leada-R-Project-2-Ebola/master/Newly%20Reported%20Ebola%20Daily%20Deaths%20-%20ggplot2%20and%20plotly.png)
 
-The number of daily deaths attributed to Ebola in Liberia peaked near the end of September. However, there was still alot of variability of daily deaths in September, there is no clear evidence of a downward trend from the data.
+The number of daily deaths attributed to Ebola in Liberia peaked near the end of September at just over 60 deaths in a day. However, there was still alot of variability of daily deaths in September, there is no clear evidence of a downward trend from the data.
 
 ![Newly Reported Ebola Deaths](https://raw.githubusercontent.com/j450h1/Leada-R-Project-2-Ebola/master/Percentage%20of%20Confirmed%20Ebola%20Cases%20-%20Tableau.png)
  
