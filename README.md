@@ -15,4 +15,8 @@ There are some sample visualizations here: http://www.bbc.com/news/world-africa-
  
 Step 3. Conclusion
 So you got the data and built some visualizations. Now interpret it! Note a few things about the graph. Can you conclude anything? Is the worst over? Maybe it's yet to come? Or not enough data? Let us know your thoughts.
+
+ANSWER:
+
+![alt tag](https://raw.github.com/username/projectname/branch/path/to/img.png)
  
